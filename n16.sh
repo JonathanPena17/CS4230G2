@@ -1,5 +1,5 @@
 #!/bin/bash
-#SBATCH --job-name=n1facebook
+#SBATCH --job-name=n16facebook
 #SBATCH --output=n16fb.out
 #SBATCH --error=n16fb.err
 #SBATCH --nodes=1
