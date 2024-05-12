@@ -2,7 +2,7 @@
 #SBATCH --job-name=n32facebook
 #SBATCH --output=n32fb.out
 #SBATCH --error=n32fb.err
-#SBATCH --nodes=1
+#SBATCH --nodes=2
 #SBATCH --ntasks=32
 #SBATCH --mem=64G
 

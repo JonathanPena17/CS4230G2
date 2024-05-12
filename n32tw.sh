@@ -2,7 +2,7 @@
 #SBATCH --job-name=n32twitter
 #SBATCH --output=n32tw.out
 #SBATCH --error=n32tw.err
-#SBATCH --nodes=1
+#SBATCH --nodes=2
 #SBATCH --ntasks=32
 #SBATCH --mem=64G
 
