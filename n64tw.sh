@@ -4,7 +4,7 @@
 #SBATCH --error=n64tw.err
 #SBATCH --nodes=2
 #SBATCH --ntasks=64
-#SBATCH --mem=64G
+#SBATCH --mem=128600
 
 # Load necessary modules (if needed)
 #module load python
