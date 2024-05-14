@@ -4,7 +4,7 @@
 #SBATCH --error=n32fb.err
 #SBATCH --nodes=2
 #SBATCH --ntasks=32
-#SBATCH --mem=64G
+#SBATCH --mem=128600
 
 # Load necessary modules (if needed)
 #module load python
