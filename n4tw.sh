@@ -2,10 +2,11 @@
 #SBATCH --job-name=n4twitter
 #SBATCH --output=n4tw.out
 #SBATCH --error=n4tw.err
+#SBATCH --partition=memxl
 #SBATCH --nodes=1
 #SBATCH --ntasks=4
-#SBATCH --mem=64G
-
+#SBATCH --mem=515500
+#SBATCH --nodelist=cn27 
 # Load necessary modules (if needed)
 #module load python
 

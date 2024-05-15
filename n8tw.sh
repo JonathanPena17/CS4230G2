@@ -4,7 +4,8 @@
 #SBATCH --error=n8tw.err
 #SBATCH --nodes=1
 #SBATCH --ntasks=8
-#SBATCH --mem=64G
+#SBATCH --mem=515500
+#SBATCH --nodelist=cn27 
 
 # Load necessary modules (if needed)
 #module load python
