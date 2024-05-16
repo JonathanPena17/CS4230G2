@@ -1,0 +1,55 @@
+The top 5 nodes by maximum centrality values are:
+Node 107: Closeness Centrality 0.45969945355191255
+Node 58: Closeness Centrality 0.3974018305284913
+Node 428: Closeness Centrality 0.3948371956585509
+Node 563: Closeness Centrality 0.3939127889961955
+Node 1684: Closeness Centrality 0.39360561458231796
+
+Average Centrality Value: 0.276167763566837
+Runtime : 86.7462887763977
+Number of Processors: 4
+
+The top 5 nodes by maximum centrality values are:
+Node 107: Closeness Centrality 0.45969945355191255
+Node 58: Closeness Centrality 0.3974018305284913
+Node 428: Closeness Centrality 0.3948371956585509
+Node 563: Closeness Centrality 0.3939127889961955
+Node 1684: Closeness Centrality 0.39360561458231796
+
+Average Centrality Value: 0.2761677635668372
+Runtime : 49.60093951225281
+Number of Processors: 8
+
+The top 5 nodes by maximum centrality values are:
+Node 107: Closeness Centrality 0.45969945355191255
+Node 58: Closeness Centrality 0.3974018305284913
+Node 428: Closeness Centrality 0.3948371956585509
+Node 563: Closeness Centrality 0.3939127889961955
+Node 1684: Closeness Centrality 0.39360561458231796
+
+Average Centrality Value: 0.2761677635668374
+Runtime : 39.69571828842163
+Number of Processors: 16
+
+The top 5 nodes by maximum centrality values are:
+Node 107: Closeness Centrality 0.45969945355191255
+Node 58: Closeness Centrality 0.3974018305284913
+Node 428: Closeness Centrality 0.3948371956585509
+Node 563: Closeness Centrality 0.3939127889961955
+Node 1684: Closeness Centrality 0.39360561458231796
+
+Average Centrality Value: 0.27616776356683737
+Runtime : 35.03470468521118
+Number of Processors: 32
+
+The top 5 nodes by maximum centrality values are:
+Node 107: Closeness Centrality 0.45969945355191255
+Node 58: Closeness Centrality 0.3974018305284913
+Node 428: Closeness Centrality 0.3948371956585509
+Node 563: Closeness Centrality 0.3939127889961955
+Node 1684: Closeness Centrality 0.39360561458231796
+
+Average Centrality Value: 0.2761677635668373
+Runtime : 34.011022329330444
+Number of Processors: 64
+
